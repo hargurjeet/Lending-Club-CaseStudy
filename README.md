@@ -15,8 +15,9 @@
   -   As an employee of a financial company specializing to disburse loans to urban customers, I am required to make a risk assessment model to help a company understand whether the loan disbursed to a customer is risky or not. 
  
 - What is the background of your project?
-  - A person applying for a loan, there are 2 decision taken by the company. Either the loan is accpeted or rejected.
-![](Lending-Club-CaseStudy/loan_dataset.PNG)
+  - A person applying for a loan, there are 2 decision taken by the company. Either the loan is accpeted or rejected. The is represented below
+  
+![alt text](https://github.com/hargurjeet/Lending-Club-CaseStudy/blob/main/loan_dataset.PNG)
 
 - What is the business probem that your project is trying to solve?
   - The current exercise should help to understand the driving factors behind the loan default as loan defaults are the largest loss to lenders. How consumer attributes and loan attributes influence the tendency of default.
