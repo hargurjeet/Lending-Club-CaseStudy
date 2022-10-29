@@ -11,10 +11,15 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- General Overview Of The Project/Problem Statement.
+  -   As an employee of a financial company specializing to disburse loans to urban customers, I am required to make a risk assessment model to help a company understand whether the loan disbursed to a customer is risky or not. 
+ 
 - What is the background of your project?
+  - 
 - What is the business probem that your project is trying to solve?
+  - The current exercise should help to understand the driving factors behind the loan default as loan defaults are the largest loss to lenders. How consumer attributes and loan attributes influence the tendency of default.
 - What is the dataset that is being used?
+  - The dataset provides has the details of the past loan applicants and whether they have ‘defaulted’ or not. The objective is to identify if the loan should be given, reduced amount to be disbursed, or the loan should not be provided.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,7 +47,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@hargurjeet] - feel free to contact me!
 
 
 <!-- Optional -->
