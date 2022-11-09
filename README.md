@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> As an employee of a financial company specializing to disburse loans to urban customers, I am required to make a risk assessment model to help a company understand whether the loan disbursed to a customer is risky or not.
 
 
 ## Table of Contents
