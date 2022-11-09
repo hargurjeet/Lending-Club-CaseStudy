@@ -27,27 +27,21 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Following features are important to consider for loan approval decision.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Homeownership - People staying in rented and mortgage accomodation loan defaluted more than people staying in their own accomodation. The default rate on paying the installments are maximum when the home ownership is classified as 'Others'
+- Purpose - Applicants have defaulted more that are taking loans for the purpose of Debt Consolidation. People taking loan for the purpose of renewable energy seems to be risky as they have defaulted on lower as well higher loan amount.
+- Employement year - The median difference of defaulted loans and sucessful loan are quite high between the year 5 to 10.
+- Interest Rates - The interest rate are critical. With high interest rates the chances of defualting the loan increases.
+- Annaul Income level - Applicants with high annual income has not defaulted but applicants with low annual income has defualted.Applicants with median salary around 50k seems to have defaulted the most.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - https://pandas.pydata.org/
+- Matplotlib - https://matplotlib.org/stable/index.html
+- Seaborn - https://seaborn.pydata.org/
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@hargurjeet] - feel free to contact me!
